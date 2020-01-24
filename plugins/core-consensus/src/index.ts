@@ -1,3 +1,3 @@
 export * from "./plugin";
 export * from "./defaults";
-export * from "./demo";
+export * from "./consensus";
