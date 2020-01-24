@@ -1,0 +1,3 @@
+[submodule "plugins/core-consensus"]
+path = plugins/core-consensus
+url = https://github.com/mikearaya/core-consensus
